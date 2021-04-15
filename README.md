@@ -19,7 +19,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=)
+ [![C](https://img.shields.io/static/v1?label=&message=C&color=black)](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=black)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
