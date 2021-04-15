@@ -8,8 +8,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahdixabid)
 
 <a href="https://github.com/mahdixabid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=buefy&layout=compact" />
 </a>
 
 ## 🧐 About
