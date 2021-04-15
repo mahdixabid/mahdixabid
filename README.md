@@ -7,7 +7,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/mahdixabid)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahdixabid)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&hide_border=true">
+<a href="https://github.com/mahdixabid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=buefy&layout=compact" />
+</a>
 
 ## 🧐 About
 
