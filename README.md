@@ -41,7 +41,7 @@
 |  <a href="https://github.com/mahdixabid"><img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+216 54 900 938*|
-|✉ 2686@holbertonschool.com| mahdiabid158@gmail.com*|
+|✉ 2686@holbertonschool.com - mahdiabid158@gmail.com*|
 |<a href="https://www.facebook.com/BlacKxBo0T/"><img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/facebook.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mahdixabid/"><img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://bit.ly/2OWIIrc"><img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/medium.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://twitter.com/BlackxBoOT"><img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/twitter.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
 
