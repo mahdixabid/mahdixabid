@@ -37,19 +37,6 @@
 
 <br/>
 
-### Contact Me
-| <a href="https://github.com/rkasale28"><img src="https://www.mayanexpert.com/wp-content/uploads/contact-logo-colour.png" width="150px" height="150px" />
-</a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *+216 54 900 938*|
-|✉ 2686@holbertonschool.com| mahdiabid158@gmail.com*|
-|<a href="https://www.facebook.com/BlacKxBo0T/"><img src="https://www.flaticon.com/svg/vstatic/svg/4406/4406220.svg?
-token=exp=1618532198~hmac=962ba6ca376764a3d540e5d1cb148ae4" width="32px" height="32px"></a> &nbsp; &nbsp; <a
-href="https://www.linkedin.com/in/mahdixabid/"><img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?
-token=exp=1618531625~hmac=011ebfd985b10f1de10da5ad59c2803c" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://bit.ly/2OWIIrc"><img
-src="https://www.flaticon.com/svg/vstatic/svg/594/594856.svg?token=exp=1618531998~hmac=c5d822ce8a22673319839d6f5c7fdeb1" width="32px" height="32px">
-</a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?
-token=exp=1618531368~hmac=6093bfeac8e988fe384da83c6d95a0b9" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
 
 ⭐️ From [MAHDi ABiD](https://github.com/mahdixabid)
