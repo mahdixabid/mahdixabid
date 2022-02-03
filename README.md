@@ -1,4 +1,4 @@
-<img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/ello.gif" width="300px"> 
+<img src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="300px"> 
 
 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.
 
