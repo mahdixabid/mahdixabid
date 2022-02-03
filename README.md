@@ -1,6 +1,6 @@
 # Hello  👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="420" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" width="300" />
 <br>
 ### About Me
 
