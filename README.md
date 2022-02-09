@@ -21,10 +21,8 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 	<a href="https://twitter.com/BlacKxBoOT"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-<details align="center">
 
 <summary> <b> <samp> Read More </samp></b></summary>
-<samp>
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -148,19 +146,11 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 
 </table>
 
-
-</samp>
-</details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 
 
 Credits: [MAHDi](https://github.com/mahdixabid)
 
 Last Edited on: 2/09/2022
 
-<p align="center">
-	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/mahdixabid)
-	
-</p>
+
