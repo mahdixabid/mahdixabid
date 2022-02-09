@@ -22,7 +22,6 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 </p>
 
 
-<summary> <b> <samp> Read More </samp></b></summary>
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -152,5 +151,3 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 Credits: [MAHDi](https://github.com/mahdixabid)
 
 Last Edited on: 2/09/2022
-
-
