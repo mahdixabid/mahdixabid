@@ -152,12 +152,14 @@
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+
+
+Credits: [MAHDi](https://github.com/mahdixabid)
+
+Last Edited on: 2/09/2022
+
 <p align="center">
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/mahdixabid)
 	
 </p>
-
-Credits: [MAHDi](https://github.com/mahdixabid)
-
-Last Edited on: 2/09/2022
