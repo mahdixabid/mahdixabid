@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/DWg6CUPpVkqhw3Bg09/giphy.gif" width="700" align="center"> 
 
-𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.
+HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
