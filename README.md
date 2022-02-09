@@ -1,5 +1,8 @@
-<img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/ello.gif" width="300px">
+<img src="https://github.com/mahdixabid/mahdixabid/blob/main/img/ello.gif" width="40%"> 
+
+<p width="50%">
 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.
+</p>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=mahdixabid&theme=react-dark)
 
@@ -74,7 +77,7 @@
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://cdn-icons.flaticon.com/png/512/3541/premium/3541190.png?token=exp=1644413081~hmac=0c0b17c048deb47074927ffb8c082ca6" width="48" height="48" />
+        <img src="https://image.pngaaa.com/450/5513450-middle.png" width="48" height="48" />
       </a>
       <br>C
     </td>
@@ -150,9 +153,6 @@
 </samp>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/mahdixabid)
-</p>
 Credits: [MAHDi](https://github.com/mahdixabid)
 
-Last Edited on: 3/09/2021
+Last Edited on: 2/09/2022
