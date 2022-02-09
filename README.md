@@ -7,7 +7,7 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=mahdixabid&theme=react-dark)
 
 <a href="https://github.com/mahdixabid">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark&layout=compact" />
 </a>
 	</p>
