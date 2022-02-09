@@ -6,12 +6,9 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=mahdixabid&theme=react-dark)
 
-<a href="https://github.com/mahdixabid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
-</a>
-<p width="20px">
-<a href="https://github.com/mahdixabid/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham"  />
+<a href="https://github.com/mahdixabid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark&layout=compact" />
 </a>
 	</p>
 
