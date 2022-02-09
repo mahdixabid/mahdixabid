@@ -9,9 +9,11 @@
 <a href="https://github.com/mahdixabid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
-<a href="https://github.com/mahdixabid/github-readme-stats" width="20px">
+<p width="20px">
+<a href="https://github.com/mahdixabid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham"  />
 </a>
+	</p>
 
 ### Let's Connect :coffee:
 <p align="center">
