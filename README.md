@@ -8,7 +8,7 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 
 <a href="https://github.com/mahdixabid">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark&layout=compact" />
 </a>
 	</p>
 
