@@ -4,7 +4,6 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=mahdixabid&theme=react-dark)
 
 <a href="https://github.com/mahdixabid">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
@@ -16,8 +15,6 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 <p align="center">
 	<a href="https://github.com/mahdixabid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mahdixabid/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/BlacKxBo0T/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mahdixabid"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/BlacKxBoOT"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
@@ -150,4 +147,4 @@ HEllo ! 𝗜'𝗺 [MAHDi](https://github.com/mahdixabid)！𝗜'𝗺 𝗮 Holber
 
 Credits: [MAHDi](https://github.com/mahdixabid)
 
-Last Edited on: 2/09/2022
+Last Edited on: 03/24/2022
