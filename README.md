@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Web dev**
 
-- 👨‍💻 All of my projects are available at [mahdiabid.info](http://mahdiabid.info)
+- 👨‍💻 All of my projects are available at [mahdiabid.dev](https://mahdiabid.dev)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahdixabid/](https://www.linkedin.com/in/mahdixabid/)
 
