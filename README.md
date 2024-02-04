@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mahdixabid@gmail.com**
 
-- 📄 Know about my experiences [mahdiabid.info](http://mahdiabid.info)
+- 📄 Know about my experiences [mahdiabid.dev](https://mahdiabid.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
