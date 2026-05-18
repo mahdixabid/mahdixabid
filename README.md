@@ -32,10 +32,6 @@
 
 <div align="center">
 
-<a href="https://mahdiabid.dev">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
 <a href="https://linkedin.com/in/mahdixabid">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
