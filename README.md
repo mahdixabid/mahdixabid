@@ -76,20 +76,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
-
-<img width="760" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdixabid&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
