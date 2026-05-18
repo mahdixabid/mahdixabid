@@ -22,7 +22,7 @@
 - 🧩 Building custom WordPress themes & Elementor widgets
 - 🚀 Focused on performance, responsive design & clean UI
 - 🌱 Always learning new technologies
-- 🔥 4+ years of experience in web development
+- 🔥 5+ years of experience in web development
 
 <br clear="right"/>
 
