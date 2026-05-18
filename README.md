@@ -1,33 +1,113 @@
-<h1 align="center">Hi 👋, I'm MAHDI ABiD</h1>
-<h3 align="center">𝗜'𝗺 𝗮 Holberton School 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 gaming 𝗮𝗻𝗱 developing.</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:7c3aed&text=Mahdi%20Abid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-End%20UI%20Developer%20%7C%20WordPress%20Developer&descAlignY=60" />
 
-- 🌱 I’m currently learning **Full stack web development**
+# 👋 Hey, I'm Mahdi Abid
 
-- 🤝 I’m looking for help with **Web dev**
+### 🚀 Front-End UI Developer • React Developer • WordPress Expert
 
-- 👨‍💻 All of my projects are available at [mahdiabid.dev](https://mahdiabid.dev)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Websites;Creating+Beautiful+UI%2FUX;React+%26+Next.js+Developer;Custom+WordPress+Developer;Figma+to+Code+Specialist" />
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahdixabid/](https://www.linkedin.com/in/mahdixabid/)
+</div>
 
-- 💬 Ask me about **Dev Web FrontEnd**
+---
 
-- 📫 How to reach me **mahdixabid@gmail.com**
+## 💫 About Me
 
-- 📄 Know about my experiences [mahdiabid.dev](https://mahdiabid.dev)
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/blackxboot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackxboot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdixabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdixabid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18522971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18522971" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/v5zzEvnEtF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/v5zzEvnEtF" height="30" width="40" /></a>
-</p>
+- 💼 Front-End UI Developer & Freelance WordPress Developer  
+- ⚛️ Specialized in **React, Next.js, SCSS, WordPress**
+- 🎨 Turning **Figma designs into real websites**
+- 🧩 Building custom WordPress themes & Elementor widgets
+- 🚀 Focused on performance, responsive design & clean UI
+- 🌱 Always learning new technologies
+- 🔥 4+ years of experience in web development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br clear="right"/>
 
-<a text-align="center" href="https://github.com/mahdixabid">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&theme=dark&layout=compact" />
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://mahdiabid.dev">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
+
+<a href="https://linkedin.com/in/mahdixabid">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/blackxboot">
+  <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:mahdixabid@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,vite,bootstrap,tailwind" />
+
+---
+
+### ⚙️ Back-End & CMS
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,nodejs,python" />
+
+---
+
+### 🎯 UI / UX & Tools
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,xd,git,github,vscode,linux,bash" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdixabid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdixabid&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
+
+<img width="760" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdixabid&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahdixabid&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# ⚡ What I Do
+
+```javascript
+const mahdi = {
+    role: "Front-End UI Developer",
+    languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+    frameworks: ["React", "Next.js", "Vue.js"],
+    cms: ["WordPress", "Elementor"],
+    design: ["Figma", "Photoshop"],
+    passion: "Building modern and clean web experiences"
+};
